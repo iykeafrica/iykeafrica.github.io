@@ -1,0 +1,55 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body
+{
+    background: #efefef;
+    padding: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.profile-img
+{
+    width: 40%;
+    float: right; 
+    color: rgb(32, 96, 112); 
+}
+.profile-img img
+{
+    border-radius: 50%;
+    width: 40%;
+}
+.about
+{
+    margin-left: 300px;
+}
+.contact
+{
+    color: rgb(104, 150, 30);
+}
+.contact1
+{
+    color: rgb(90, 23, 23);
+}
+.contact1 a
+{
+    color: rgb(74, 110, 187);
+}
+.contact1 a:hover
+{
+    color: rgb(9, 39, 92);
+    cursor: pointer;
+}
+p
+{
+    margin-left: 30px;
+}
+}
+h3
+{
+    margin-left: 30px;
+}
+
+
