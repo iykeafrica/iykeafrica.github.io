@@ -123,9 +123,3 @@ body {
 .profile {
     font-size: 20px;
 }
-
-.portfolio-images-wrapper {
-    margin-left: 60px;
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-}
